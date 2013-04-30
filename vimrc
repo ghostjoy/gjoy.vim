@@ -45,7 +45,7 @@ Bundle 'git://github.com/gregsexton/MatchTag.git'
 
 Bundle 'moskytw/tagit.vim'
 
-Bundle 'Lokaltog/powerline'
+Bundle 'Lokaltog/vim-powerline'
 
 Bundle 'Raimondi/delimitMate'
 
