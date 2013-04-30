@@ -12,7 +12,7 @@ Bundle 'gmarik/vundle'
 " --- gjoy's plugins ---
 
 "Daily using
-Bundle 'ghostjoy/gjoy.vim'
+"Bundle 'ghostjoy/gjoy.vim'
 
 "Bundle 'AutoComplPop'
 
