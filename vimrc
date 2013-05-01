@@ -24,7 +24,7 @@ Bundle 'Valloric/YouCompleteMe'
 
 Bundle 'Lokaltog/vim-easymotion'
 
-Bundle 'tpope/vim-rails.git'
+"Bundle 'tpope/vim-rails.git'
 
 Bundle 'kien/ctrlp.vim'
 
@@ -57,6 +57,9 @@ Bundle 'Align'
 "code
 
 Bundle 'AndrewRadev/splitjoin.vim'
+
+"comment <leader><leader>
+Bundle 'scrooloose/nerdcommenter'
 
 " --- end ---
 

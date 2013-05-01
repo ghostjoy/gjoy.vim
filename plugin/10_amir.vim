@@ -156,9 +156,12 @@ if has("gui_running")	" GUI color and font settings
   highlight CursorLine          guibg=#003853 ctermbg=24  gui=none cterm=none
 else
 " terminal color settings
-  colors rails_envy
+"  colors rails_envy
+  colors moskyfav
   set t_Co=256
   set cursorline
+  set colorcolumn=81
+
 endif
 
 

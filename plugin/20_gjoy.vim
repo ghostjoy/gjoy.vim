@@ -88,8 +88,8 @@ imap <C-up> <C-O><C-up>
 
 "set cmdheight=1
 "set number
-"set cursorline
-"set colorcolumn=81
+set cursorline
+set colorcolumn=81
 
 " TODO: let foldcolumn use the char like this
 set fillchars=stl:\ ,stlnc:\ ,vert:│,fold:\ ,diff:\ ,
@@ -97,7 +97,7 @@ set fillchars=stl:\ ,stlnc:\ ,vert:│,fold:\ ,diff:\ ,
 " ## Editing
 
 " hold shift to select and copy text
-set mouse=a
+"set mouse=a
 
 "set encoding=utf-8
 "set listchars=tab:>-,trail:#,eol:$
